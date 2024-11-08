@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="YourHealthManual">دليلك الصحي</string>
+    <string name="CreatePlan">إنشاء الخطة</string>
+    <string name="next">التالي</string>
+    <string name="high">الطول</string>
+    <string name="Age">العمر</string>
+    <string name="weight">الوزن</string>
+    <string name="gender">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">انثى</string>
+    <string name="Result">النتيجة: </string>
+    <string name="calculate">حساب الوزن</string>
+    <string name="choose">اختار نوع الطعام الذي يناسبك</string>
+    <string name="table">جدول غذائي</string>
+    <string name="day1">اليوم الأول</string>
+    <string name="day2">اليوم الثاني</string>
+    <string name="day3">اليوم الثالث</string>
+    <string name="day4">اليوم الرابع</string>
+    <string name="day5">اليوم الخامس</string>
+    <string name="day6">اليوم السادس</string>
+    <string name="day7">اليوم السابع</string>
+    <string name="breakfast">فطور</string>
+    <string name="lunch">غداء</string>
+    <string name="dinner">عشاء</string>
+
+
+
+</resources>
